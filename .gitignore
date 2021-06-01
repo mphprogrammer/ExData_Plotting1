@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.html
+ExData_Plotting1.Rproj
+.DS_Store
+loader.R
